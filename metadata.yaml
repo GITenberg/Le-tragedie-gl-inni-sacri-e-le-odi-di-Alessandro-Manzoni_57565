@@ -1,0 +1,26 @@
+_repo: Le-tragedie-gl-inni-sacri-e-le-odi-di-Alessandro-Manzoni_57565
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Manzoni, Alessandro
+    birthdate: 1785
+    deathdate: 1873
+    gutenberg_agent_id: '37500'
+    url: http://www.gutenberg.org/2009/agents/37500
+    wikipedia: http://en.wikipedia.org/wiki/Alessandro_Manzoni
+description: ''
+gutenberg_bookshelf:
+- IT Teatro in versi
+- IT Poesia
+gutenberg_issued: '2018-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57565'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le tragedie, gl'inni sacri e le odi di Alessandro Manzoni
+url: http://www.gutenberg.org/ebooks/57565
